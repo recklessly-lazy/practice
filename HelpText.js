@@ -23,3 +23,4 @@ textFromApplication = textFromApplication.split('\n').join('').split(' ').join('
 
 console.log('from word document: ',textFromDocument.length)
 console.log('from application: ',textFromApplication.length)
+// new comment
